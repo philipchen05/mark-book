@@ -1,8 +1,5 @@
-/* Name: Philip Chen
-Teacher: Mr. Guglielmi
-Date: October 27, 2020
-Assignment: Using and manipulating files and arrays to create an interactive student mark book program
-*/
+// Using and manipulating files and arrays to create an interactive student mark book program
+
 import hsa.Console;
 import java.awt.*;
 import java.io.*;
